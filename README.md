@@ -1,6 +1,6 @@
 # Touchscreen  
 [The 3.5' 320x480 resistive touchscreen made by Velleman - VMP400  ](https://www.velleman.eu/products/view/?id=438240)  
-Perfect for Raspberry Pi1  
+Perfect for Raspberry Pi!  
 
 ## Installation  
 ```  
