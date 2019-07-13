@@ -41,4 +41,4 @@ Note that this only works when touching the touchscreen and does not change the 
    Option "EmulateThirdButtonTimeout" "750"  
    Option "EmulateThirdButtonMoveThreshold" "30"  
 ```  
-You can customize the second two parameters if you feel it is to dicciult to register a right click.
+A right click is registered by a long press. You can customize the second two parameters if you feel it is to dicciult to register a right click.  
