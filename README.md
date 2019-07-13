@@ -13,3 +13,6 @@ cd LCD-show/
 
 ## Use HDMI  
 ```sudo ./LCD-hdmi```  
+
+## Rotate Display  
+```sudo ./rotate.sh [0] [90] [180] [270] [360] [450]```  
